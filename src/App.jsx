@@ -12,7 +12,7 @@ function App() {
   return (
     <>
     <Header></Header>
-     {/* <Box></Box> */}
+     <Box></Box>
      <Cards></Cards>
      <Fooder></Fooder>
 
